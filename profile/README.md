@@ -1,6 +1,5 @@
-# Validando AI
+# Fonder
 
-El camino del emprendedor.
 
 ******************
 
